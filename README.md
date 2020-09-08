@@ -76,7 +76,7 @@ Please refer to the course presentation for more requirements.
 
 ## Detailed Schedule
  
-S: Section     &nbsp;&nbsp; C: Component
+S: Section
  
 | Week | Watching List                                                    | Complementary Materials|To-Do List|
 | -----|:----------------------------------------------------------------:| ----------------------:|:--------:|
