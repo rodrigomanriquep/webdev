@@ -76,25 +76,23 @@ Please refer to the course presentation for more requirements.
 
 ## Detailed Schedule
  
-S: Section
-
-C: Component
+S: Section     &nbsp;&nbsp; C: Component
  
 | Week | Watching List                                                    | Complementary Materials|To-Do List|
 | -----|:----------------------------------------------------------------:| ----------------------:|:--------:|
-| 1    | [1, S 1 - 3],[Learn C++ in 4 hours](https://youtu.be/vLnPwxZdW4Y)|                        |          |
-| 2    | [1, S 4 - 6]                                                     |                        |          |
-| 3    | [1, S 7, 8 and S 9 (C 76 - 81)]                                  |                        |          |
-| 4    | [1, S 9 - 10 ]                                                   |                        |          |                          
-| 5    | [1, S 11]                                                        |                        |          |
-| 6    | [1, S 12]                                                        |                        |          |
-| 7    | [1, S 13]                                                        |                        |          |
-| 8    | [1, S 14]                                                        |                        |          |
-| 9    | [1, S 15]                                                        |                        |          |
-| 10   | [1, S 16]                                                        |                        |          |
-| 11   | [1, S 17 - 18]                                                   |                        |          |
-| 12   | [1, S 19]                                                        |                        |          |
-| 13   | [1, S 20]                                                        |                        |          |
+| 1    | [1, S 1 - 3]                                                     |                        |          |
+| 2    | [1, S 4 - 5]                                                     |                        |          |
+| 3    | [1, S 6 - 8]                                                     |                        |          |
+| 4    | [1, S 9]                                                         |                        |          |                          
+| 5    | [1, S 10 - 12]                                                        |                        |          |
+| 6    | [1, S 13 - 16]                                                        |                        |          |
+| 7    | [1, S 17 - 19]                                                        |                        |          |
+| 8    | [1, S 20 - 21]                                                        |                        |          |
+| 9    | [1, S 22 - 23]                                                        |                        |          |
+| 10   | [1, S 24 - 27]                                                        |                        |          |
+| 11   | [1, S 28 - 31]                                                   |                        |          |
+| 12   | [1, S 32]                                                        |                        |          |
+| 13   | No new material                                                  |                        |          |
 
 
 
