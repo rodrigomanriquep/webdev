@@ -22,6 +22,8 @@ Note: Most videos can be watched at 1.5X speed
 
 - [2] [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
+- [3] [A relevant notes](https://drive.google.com/drive/folders/12jCkOQCAtXoxxpwfevuWDlYgWj6ryh3N)
+
 
  The two books below can be used as references during the course, but they are not required:
 
