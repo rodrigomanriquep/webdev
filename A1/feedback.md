@@ -39,8 +39,9 @@ Assignment 1 requires the use of CSS. Please make sure that you have connected t
 #### Example 2
 ![](img/toosimple2.PNG "")
 
-# Individual Interviews will be conducted with students whose submissions are suspected of potential plagiarisms. The interview consists of two parts:
+# Individual Interviews 
+#### Individual interviews will be scheduled conducted with students whose submissions are suspected of potential plagiarisms. The interview consists of two parts:
 - Part 1: The student walks the instructor through the website and briefly describe the implementation, with more focus on the difficulties that the student ran into during the implementation.
 - Part 2: Technical questions will be raised by the instructor regarding the submitted work.
 
-For more information, please refer to the Assignment 1 instruction. 
+For more information regarding individual interviews, please refer to the Assignment 1 instruction. 
