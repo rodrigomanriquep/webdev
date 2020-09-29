@@ -6,7 +6,7 @@ Assignment 1 Instruction has a section that clearly stated that required submiss
 
 ### Incorrect Submission Examples:
 
-#### Incorrect Submission Example 1
+#### Incorrect Submission Example 1 
 ![](img/incorrect_file.PNG "")
 #### Incorrect Submission Example 2
 ![](img/incorrect_link.PNG "")
